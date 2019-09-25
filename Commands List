@@ -1,0 +1,8 @@
+# Working Diretory
+# Get current working directory 
+os.getcwd()
+# Change current working directory
+os.chdir()
+# List of Files in current working directory
+os.listdir()
+
